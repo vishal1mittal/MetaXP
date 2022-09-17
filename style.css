@@ -1,0 +1,33 @@
+#Main_Page{
+    float: right;
+    margin-right: 20%;
+    margin-top: 15%;
+}
+
+#Join_Lobby{
+    float: right;
+}
+
+#Create_Lobby{
+    float: right;
+}
+#Cards{
+    display: inline-flex;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#Cards div{
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#Cards div img{
+    width: 100%;
+}
+
+#main_game_body{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/006/861/154/small/light-blue-background-gradient-illustration-eps10-vector.jpg');
+    background-size: cover;
+}
